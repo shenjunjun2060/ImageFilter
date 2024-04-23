@@ -1,0 +1,3 @@
+blurred_image = imf.apply_filter(image, filter_type='blur', radius=5)
+sharpened_image = imf.apply_filter(image, filter_type='sharpen', factor=2.0)
+grayscale_image = imf.apply_filter(image, filter_type='grayscale')
