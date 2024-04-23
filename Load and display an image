@@ -1,0 +1,4 @@
+import imagefilter as imf
+
+image = imf.load_image('path/to/image.jpg')
+imf.display_image(image)
