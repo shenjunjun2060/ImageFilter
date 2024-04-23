@@ -1,0 +1,3 @@
+imf.save_image(blurred_image, 'path/to/blurred_image.jpg')
+imf.save_image(sharpened_image, 'path/to/sharpened_image.jpg')
+imf.save_image(grayscale_image, 'path/to/grayscale_image.jpg')
